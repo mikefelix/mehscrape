@@ -1,0 +1,12 @@
+{
+    "name"         : "mehscrape",
+        "version"      : "0.0.1",
+        "description"  : "Scrape le meh.",
+        "main"         : "server.js",
+        "author"       : "Mike",
+        "dependencies" : {
+            "express"    : "latest",
+            "request"    : "latest",
+            "cheerio"    : "latest"
+        }
+}
